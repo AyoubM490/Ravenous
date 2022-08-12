@@ -1,5 +1,5 @@
 const apiKey =
-  "ayM8TSldvchnTG7xJles311Ytmyzn2iZG0AkuWClDDgJazYugY6UxJms16HowjV6";
+  'aTIErdHUumZn6k59HdQ7CrLZ0W3dStnCaj-XnFcKqjr0TA5oUaVdxGskzd2dnBubfAAnHzKlUSm7KhECEhKDqp6jdIDe_ILQdwyVTCwB2I98WJ7a0lV4f5aBWO01YHYx';
 
 const yelp = {
   async searchYelp(term, location, sortBy) {
